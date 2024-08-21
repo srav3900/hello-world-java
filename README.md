@@ -1,5 +1,4 @@
-# Hello world with Java :coffee:
-
+# Hello world with Java :coffee:   tea for deveops students
 This is a simple **"Hello world"** done with **Java** programming language.
 
 ## Source code
